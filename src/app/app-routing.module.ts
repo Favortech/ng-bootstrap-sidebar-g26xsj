@@ -14,10 +14,7 @@ export const routes = [
     path: 'bookings',
     component: BookingsComponent,
   },
-  {
-    path: 'configuration',
-    component: ConfigurationComponent,
-  }
+  
 ];
 
 @NgModule({
