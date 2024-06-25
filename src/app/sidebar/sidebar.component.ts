@@ -11,3 +11,11 @@ export class SidebarComponent {
 
   handleSidebarToggle = () => this.toggleSidebar.emit(!this.isExpanded);
 }
+
+constructor()
+  
+
+
+function constructor() {
+  throw new Error("Function not implemented.");
+}
